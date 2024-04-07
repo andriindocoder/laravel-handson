@@ -1,1 +1,0 @@
-Hello from the About Page
